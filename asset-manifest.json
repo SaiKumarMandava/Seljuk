@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Seljuk/static/css/main.e6c13ad2.css",
+    "main.js": "/Seljuk/static/js/main.123af25d.js",
+    "static/js/787.2742452b.chunk.js": "/Seljuk/static/js/787.2742452b.chunk.js",
+    "static/media/s1.png": "/Seljuk/static/media/s1.237a340d872f32a9ab97.png",
+    "static/media/fl.jpg": "/Seljuk/static/media/fl.b2f74bcef957b5ae9398.jpg",
+    "index.html": "/Seljuk/index.html",
+    "main.e6c13ad2.css.map": "/Seljuk/static/css/main.e6c13ad2.css.map",
+    "main.123af25d.js.map": "/Seljuk/static/js/main.123af25d.js.map",
+    "787.2742452b.chunk.js.map": "/Seljuk/static/js/787.2742452b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.123af25d.js"
+  ]
+}
